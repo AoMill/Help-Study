@@ -1,6 +1,6 @@
 # Help Study  
 
-Esse projeto visa ajudar as pessoas a entender um determinado assunto, do nível: fundamental, médio, superior ou profissionalizante. De forma resumida, com atividades práticas e suas resoluções.  
+Este projeto visa ajudar as pessoas a entender um determinado assunto, do nível: fundamental, médio, superior ou profissionalizante. De forma resumida, com atividades práticas e suas resoluções.  
 
 ## Quick Start  
 
